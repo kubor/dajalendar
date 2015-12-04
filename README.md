@@ -9,7 +9,7 @@ Dajalendar
 ## install
 
 ```
-git clone https://github.com/K-Ryuichi/dajalendar
+git clone https://github.com/K-Ryuichi/dajalendar.git
 cd dajalendar
 python setup.py install
 ```
