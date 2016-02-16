@@ -19,6 +19,7 @@ import sys
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), 'data')
 
+
 def getDajare():
     """get dajare from json"""
     dajson = os.path.join(DATA_PATH, 'dajare.json')
