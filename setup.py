@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 """
@@ -13,8 +13,8 @@ setup(
     description='show calendar and dajare',
     author='kubor',
     author_email='rkubo.4w@gmail.com',
-    url='https://github.com/K-Ryuichi',
-    license='Copyright(c) 2015 kubor. MIT',
+    url='https://github.com/kubor',
+    license='Copyright(c) 2015 kubor. MIT-Licence',
     packages=['dajalendar'],
     package_dir={'dajalendar': 'dajalendar'},
     package_data={
