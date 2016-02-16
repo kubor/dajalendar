@@ -5,11 +5,11 @@
 setup.py
 """
 
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
     name='dajalendar',
-    version='0.1',
+    version='0.1.1',
     description='show calendar and dajare',
     author='kubor',
     author_email='rkubo.4w@gmail.com',
