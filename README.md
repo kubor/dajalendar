@@ -9,9 +9,17 @@ Dajalendar
 ## install
 
 ```
-git clone https://github.com/K-Ryuichi/dajalendar.git
+git clone https://github.com/kubor/dajalendar.git
 cd dajalendar
 python setup.py install
+```
+
+## Docker file
+使い捨てにしてください
+Windows版だと上手く動かないようです
+
+```
+docker run kubor/dajalendar
 ```
 
 ## usage
